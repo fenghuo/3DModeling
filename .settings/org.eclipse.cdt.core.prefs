@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.1866772253/CPLUS_INCLUDE_LIB_PATH/delimiter=;
+environment/project/0.1866772253/CPLUS_INCLUDE_LIB_PATH/operation=append
+environment/project/0.1866772253/CPLUS_INCLUDE_LIB_PATH/value=E\:\\Tech\\Android\\adt-bundle-windows-x86_64-20131030\\android-ndk-r9c\\platforms\\android-19\\arch-arm\\usr\\lib
+environment/project/0.1866772253/CPLUS_INCLUDE_PATH/delimiter=;
+environment/project/0.1866772253/CPLUS_INCLUDE_PATH/operation=append
+environment/project/0.1866772253/CPLUS_INCLUDE_PATH/value=E\:\\Tech\\Android\\adt-bundle-windows-x86_64-20131030\\android-ndk-r9c\\platforms\\android-19\\arch-arm\\usr\\include;E\:\\Tech\\Android\\adt-bundle-windows-x86_64-20131030\\android-ndk-r9c\\sources\\cxx-stl\\stlport\\stlport;
+environment/project/0.1866772253/append=true
+environment/project/0.1866772253/appendContributed=true
